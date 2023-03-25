@@ -31,4 +31,4 @@ would create the Truth-Table:
 | 1 | 1 | 0 | 1 |
 | 1 | 1 | 1 | 1 |
 
-The Table above shows the state of the variables B, S, W and if the expression in itself is true with the given truth values. In this case, the expression is true, when B and S are false, and W is true and so on. The program can evaluate expressions with up to 24 individual variables. If the expression is given in the short form, the program can also evaluate brackets correctly (eg. (b|~s)->((b&s)|w))
+The Table above shows the state of the variables B, S, W and if the expression in itself is true with the given truth values. In this case, the expression is true, when B and S are false, and W is true and so on. The program can evaluate expressions with up to 24 individual variables. If the expression is given in the short form, the program can also evaluate brackets correctly (eg. (b|~s)->((b&s)|w)).
